@@ -36,11 +36,12 @@ Note!!!! The step Create a [Virtual Environment](https://code.visualstudio.com/d
 
 3. Install conda: https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
 
-4. Create your conda environment.
+4. Create your conda environment and install the dependencies.
 Open a terminal in VSCode and type the following commands:
 ```
 $ conda create -n "comp_ling" python=3.8.0 ipython
 $ conda activate comp_ling
+$ pip install -r requirements.txt
 ```
 
 5. Install the **jupyter notebook** plugin: https://code.visualstudio.com/docs/datascience/overview
