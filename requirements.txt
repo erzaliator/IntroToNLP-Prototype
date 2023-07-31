@@ -1,6 +1,12 @@
-regex
 nltk
 spacy
 pandas
 torch
 huggingface
+matplotlib
+seaborn
+
+
+https://nlp.stanford.edu/IR-book/html/htmledition/tokenization-1.html
+
+This is the latest stanford course equivalent to our course: https://web.stanford.edu/class/cs124/#information
