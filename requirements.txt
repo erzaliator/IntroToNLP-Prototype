@@ -5,6 +5,7 @@ torch
 huggingface
 matplotlib
 seaborn
+gensim
 
 
 https://nlp.stanford.edu/IR-book/html/htmledition/tokenization-1.html
